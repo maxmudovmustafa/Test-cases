@@ -1408,7 +1408,7 @@ Ikkalasi "Muvaffaqiyatli" bo'lsa — bu darhol yozib qo'yiladigan `P0` kamchilik
 
 | # | Keys | Prio | Qurilma 1 | Qurilma 2 | Izoh |
 |---|---|:---:|:---:|:---:|---|
-| ON-01 | Oddiy sotuv | P0 | ☐ | ☐ | |
+| ON-01 | Oddiy sotuv | P0 | [ ] | [ ] | |
 | ON-02 | Qarindosh JShShIRi | P0 | ☐ | ☐ | |
 | ON-03 | Skaner bilan | P1 | ☐ | ☐ | |
 | ON-04 | NFC plomba qaytarish | P0 | ☐ | ☐ | |
